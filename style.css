@@ -1,0 +1,25 @@
+#map {
+    height: 90vh;
+}
+
+.location-button button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.buffer-control {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}
+
+.nearest-hospital-icon div {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
